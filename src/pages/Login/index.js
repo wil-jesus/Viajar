@@ -1,3 +1,7 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable prettier/prettier */
+/* eslint-disable no-alert */
 import React, {useState, useCallback} from 'react';
 
 import AsyncStorage from '@react-native-community/async-storage';

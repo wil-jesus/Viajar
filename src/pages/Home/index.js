@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable no-alert */
 import React, {useState, useEffect} from 'react';
 import {View, ScrollView, RefreshControl} from 'react-native';
 
